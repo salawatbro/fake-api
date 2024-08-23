@@ -1,0 +1,26 @@
+{
+    "delivery-services":[
+        {
+            "name": "yandex",
+            "price": 32000
+        },
+        {
+            "name": "uzpost",
+            "price": 12000
+        }
+    ],
+    "payment-types": [
+        {
+            "name": "Click"
+        },
+        {
+            "name": "Payme"
+        }
+    ],
+    "sms-primary": {
+        "code": 1909
+    },
+    "sms-second": {
+        "code": 7190
+    }
+}
