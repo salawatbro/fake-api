@@ -1,19 +1,23 @@
 {
     "delivery-services":[
         {
+            "id": 1,
             "name": "yandex",
             "price": 32000
         },
         {
+            "id": 2,
             "name": "uzpost",
             "price": 12000
         }
     ],
     "payment-types": [
         {
+            "id": 1,
             "name": "Click"
         },
         {
+            "id": 2,
             "name": "Payme"
         }
     ],
